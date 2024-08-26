@@ -27,6 +27,8 @@ This Python-based digital clock displays the current time in either 12-hour or 2
 
    
 ## Getting Started
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nishuR31&repo=Digital_Clock&show_owner=true&theme=midnight-purple)](https://github.com/nishuR31)
+
 
 ### Prerequisites
 
