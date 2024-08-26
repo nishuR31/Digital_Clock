@@ -72,5 +72,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For more information or to provide feedback, you can reach out to me on [GitHub](https://github.com/nishuR31).
+For more information or to provide feedback, you can reach out to me on [GitHub](https://github.com/nishuR31) or mail me on [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com) .
 
